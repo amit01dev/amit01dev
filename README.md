@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 <h2 align="center">👋 Hello! I'm Amit Kumar Purohit.</h2>
-<p align="center">
-  <a href="https://twitter.com/shailstar_dev">Twitter</a>
-</p>
 
 
 - 🌱 I’m currently learning more on React.js, deep concept of javascript and yoga
@@ -18,7 +15,8 @@ and <a href='https://www.hotstar.com/in/shows/mars/11878'> MARS The Future is Re
   <span>React.js |</span>
   <span>Git & Github |</span>
   <span>NPM |</span>
-  <span></span>
+  <span>Tailwind CSS |</span>
+  <span>Node.js</span>
   
   
   
